@@ -1,0 +1,15 @@
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\bin\Debug\net6.0\Student-Class.exe
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\bin\Debug\net6.0\Student-Class.deps.json
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\bin\Debug\net6.0\Student-Class.runtimeconfig.json
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\bin\Debug\net6.0\Student-Class.dll
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\bin\Debug\net6.0\Student-Class.pdb
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.dll
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\refint\Student-Class.dll
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.pdb
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\Student-Class.genruntimeconfig.cache
+C:\Users\Atilla\source\repos\Student-Class\Student-Class\obj\Debug\net6.0\ref\Student-Class.dll
